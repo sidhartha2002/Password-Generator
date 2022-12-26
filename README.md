@@ -1,2 +1,6 @@
 # Password-Generator
-It generates random passwords
+
+## Now your password will become secure & easy to generate 😎
+### It generates random passwords for the user
+
+#### made with ❤️
